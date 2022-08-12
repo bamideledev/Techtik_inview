@@ -1,0 +1,53 @@
+{
+  "name": "my",
+  "version": "0.1.0",
+  "private": true,
+  "homepage" : "http://bamideledev.github.io/React_pro",
+  "dependencies": {
+    "@ant-design/icons": "^4.7.0",
+    "@fortawesome/fontawesome-svg-core": "^6.1.1",
+    "@fortawesome/free-regular-svg-icons": "^6.1.1",
+    "@fortawesome/free-solid-svg-icons": "^6.1.1",
+    "@fortawesome/react-fontawesome": "^0.2.0",
+    "@testing-library/jest-dom": "^5.14.1",
+    "@testing-library/react": "^13.0.0",
+    "@testing-library/user-event": "^13.2.1",
+    "axios": "^0.27.2",
+    "firebase": "^9.8.2",
+    "react": "^18.0.0",
+    "react-chat-engine": "^1.11.22",
+    "react-dom": "^18.0.0",
+    "react-router-dom": "5",
+    "react-scripts": "5.0.1",
+    "stream-chat": "^6.6.0",
+    "stream-chat-react": "^9.1.2",
+    "universal-cookie": "^4.0.4",
+    "web-vitals": "^2.1.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy" : "gh-pages -d build"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
