@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Techtik_inview/static/css/main.414b1e6a.css",
+    "main.js": "/Techtik_inview/static/js/main.ec0afb7d.js",
+    "static/js/787.60235f71.chunk.js": "/Techtik_inview/static/js/787.60235f71.chunk.js",
+    "static/media/jt.jpeg": "/Techtik_inview/static/media/jt.35b5a849ad452bffec0f.jpeg",
+    "static/media/deletik1.png": "/Techtik_inview/static/media/deletik1.e85f4b6673255b13cd45.png",
+    "static/media/techtik.jpeg": "/Techtik_inview/static/media/techtik.e13e503322447312ab3b.jpeg",
+    "index.html": "/Techtik_inview/index.html",
+    "main.414b1e6a.css.map": "/Techtik_inview/static/css/main.414b1e6a.css.map",
+    "main.ec0afb7d.js.map": "/Techtik_inview/static/js/main.ec0afb7d.js.map",
+    "787.60235f71.chunk.js.map": "/Techtik_inview/static/js/787.60235f71.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.414b1e6a.css",
+    "static/js/main.ec0afb7d.js"
+  ]
+}
